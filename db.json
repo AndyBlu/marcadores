@@ -9,5 +9,14 @@
             "latitudV1":"-79.47036738940757",
             "imgLogo":"https://www.uteq.edu.ec/images/about/logo_fci.jpg"
         }
+        {
+            "idFacultad":"FCA",
+            "nomFacultad":"FACULTAD DE CIENCIAS AGROPECUARIAS",
+            "nomDecano":"Ing. Leonardo Gonzalo Matute, M.Sc.",
+            "ubicacion":"Campus “La María”, km 7 vía Quevedo-El Empalme",
+            "latitudV0":"-1.081525365673253",
+            "latitudV1":"-79.50280758707027",
+            "imgLogo":"https://www.uteq.edu.ec/images/about/logo_fcagrop.jpg"
+        }
     ]
 }
